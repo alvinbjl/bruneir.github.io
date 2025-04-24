@@ -1,0 +1,46 @@
+---
+title: "R>aya Meetup 2025"
+date: "2025-04-19"
+author: Alvin Bong
+resources: MuazMahdi_Lapar to Kenyang Slides.pdf
+categories: 
+ - Networking event
+
+format: 
+  html:
+    code-links:
+      - text: Slides by Dr. Daphne
+        href: https://www.linkedin.com/posts/daphneteckchinglai_a-cluster-analysis-of-malay-raya-kuih-ugcPost-7319140906849251328-5KAK?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAADaMmoIBFk4FIfFuKvf1Wqxs7FWJ_sQtBwo&utm_campaign=share_via
+      - text: Slides by Muaz
+        href: MuazMahdi_Lapar to Kenyang Slides.pdf
+      - text: Slides by Hafeezul
+        href: https://hafeezulrzq.github.io/raya-api.html
+---
+
+It’s the time of the year, Hari Raya Aidilfiti, a season filled with joy, unity and gratitude. To celebrate, the [Brunei R User Group](https://bruneir.github.io) (BRUG) hosted the signature event, R\>aya Meetup on 18th April 2025 at Ruang Bicara Minda, UBD Library. This marks the second time of hosting such annual gathering that blends the festive spirit of Hari Raya Aidilfitri with our shared passion for R programming.
+
+![The event brought together enthusiasts to celebrate Raya while exploring R programming and offering engaging sessions as well as networking opportunities.](images/1.jpg)
+
+The event kicked off at 2:00 PM with a warm welcome, an overview of BRUG, its mission, and the day’s agenda, presented by the Chair, Dr. Haziq Jamil. This was followed by a series of exciting talks from our three guest speakers: Dr Daphne Lai, Muaz Mahdi and Hafeezul Waeezz Rabu.
+
+Dr Daphne opened the session with an insightful demonstration on Principal Component Analysis (PCA), using R to cluster different types of ‘kuih raya’ (Raya desserts) based on characteristics like sweetness, chewiness, butteriness, and crunchiness. A perfect blend of data science and dessert that left us hungry for more!
+
+![](images/2.jpg)
+
+Next, Muaz brought the fun with a creative use of Markov Chains to explore the best eating strategy for feeling fully satisfied during a Raya open house. From setting up a "tummy state" matrix (ranging from very hungry to overstuffed) to visualizing different eating strategies, it was a thoughtful and humorous take on making the most of our festive feasts.
+
+![](images/3.jpg)
+
+Lastly, Hafeezul wrapped up the speaker series with a dive into APIs, analyzing Hari Raya songs on YouTube. From most-viewed to most-liked videos, the session even included linear regressions to explore trends. And yes, it turns out the most viewed Hari Raya song for 2025 on Youtube is [Meriah Lain Macam](https://youtu.be/0VM-5VM__5U?si=P88B4bR7z7DG_zrl) !
+
+![](images/4.jpg)
+
+After a lively Q&A session at 3:45 PM, the event wrapped up with open-floor networking, light refreshments, and of course, an abundance of kuih raya. It was a great opportunity to connect, share, and celebrate, with tech and tradition in harmony.
+
+A big thank you to everyone who joined us! We’re grateful for the support and enthusiasm of the BRUG community. Until next time, Selamat Hari Raya Aidilfitri, and stay tuned for more exciting events ahead!
+
+<br>
+
+***Happy Coding,***
+
+*The Brunei R User Group.*
